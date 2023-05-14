@@ -7239,7 +7239,7 @@ input, select, textarea {
 					#wrapper > .invert input[type="button"].primary:hover,
 					#wrapper > .invert button.primary:hover,
 					#wrapper > .invert .button.primary:hover {
-						background-color: #47D3E5;
+						background-color: #555555;
 					}
 
 					#wrapper > .invert input[type="submit"].primary:active,
@@ -7247,7 +7247,7 @@ input, select, textarea {
 					#wrapper > .invert input[type="button"].primary:active,
 					#wrapper > .invert button.primary:active,
 					#wrapper > .invert .button.primary:active {
-						background-color: #1ebdd1;
+						background-color: #555555;
 					}
 
 			#wrapper > .invert label {
