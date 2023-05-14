@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="logotype" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1200 800" style="enable-background:new 0 0 1200 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#131215;}
+	.st1{fill:#FFFFFF;}
+	.st2{fill:#FC273F;}
+</style>
+<rect id="bg" class="st0" width="1200" height="800"/>
+<g>
+	<g id="black">
+		<g id="XMLID_88_">
+			<g id="XMLID_1321_">
+				<polygon id="XMLID_1322_" class="st1" points="910.2,350.8 844.7,451 874.8,451 910.2,397.3 945.7,451 975.7,451 				"/>
+			</g>
+			<g id="XMLID_1318_">
+				<path id="XMLID_1319_" class="st1" d="M224.3,451V350.8l62.9,57.3l61.8-57.3V451h-25v-45.5l-36.2,34.9h-1.2l-37.4-34.9V451
+					H224.3z"/>
+			</g>
+		</g>
+		<rect x="646.7" y="366.5" class="st1" width="25.8" height="97.7"/>
+		<polygon class="st1" points="366.6,482.2 396.6,482.2 432,428.5 467.5,482.2 497.5,482.2 432,382 		"/>
+		<polygon class="st1" points="727.9,389.7 727.9,344.2 765.3,379 766.5,379 802.7,344.2 802.7,389.7 827.8,389.7 827.8,317.8 
+			797.3,317.8 766,346.8 734.1,317.8 703.1,317.8 703.1,389.7 		"/>
+		<polygon class="st1" points="592.9,318 565.8,348.3 538.7,318 505.8,318 549.4,366.8 505.8,415.7 538.7,415.7 565.8,385.3 
+			592.9,415.7 625.9,415.7 582.3,366.8 625.9,318 		"/>
+	</g>
+	<g id="red">
+		<rect x="646.7" y="317.8" class="st2" width="25.8" height="30.1"/>
+		<polygon class="st2" points="396.6,382 432,328.3 467.5,382 497.5,382 455.5,317.8 408.6,317.8 366.6,382 		"/>
+		<polygon class="st2" points="766,457.8 703.1,400.5 703.1,482.2 727.9,482.2 727.9,455.2 756.9,482.2 774.7,482.2 802.7,455.2 
+			802.7,482.2 827.8,482.2 827.8,400.5 		"/>
+		<polygon class="st2" points="592.9,433.3 565.8,463.7 538.7,433.3 505.8,433.3 549.4,482.2 582.3,482.2 625.9,433.3 		"/>
+	</g>
+</g>
+</svg>
