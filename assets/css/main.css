@@ -7229,9 +7229,9 @@ input, select, textarea {
 				#wrapper > .invert input[type="button"].primary,
 				#wrapper > .invert button.primary,
 				#wrapper > .invert .button.primary {
-					background-color: #ffffff;
+					background-color: #29292b;
 					box-shadow: none;
-					color: #000000 !important;
+					color: #fff !important;
 				}
 
 					#wrapper > .invert input[type="submit"].primary:hover,
