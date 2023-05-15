@@ -2474,7 +2474,7 @@ input, select, textarea {
 		input[type="button"].small,
 		button.small,
 		.button.small {
-			font-size: 0.75rem;
+			font-size: 0.6rem;
 			height: 3.325em;
 			line-height: 3.25em;
 			border-radius: 3.325em;
